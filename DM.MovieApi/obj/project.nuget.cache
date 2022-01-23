@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrLEdYg5qg7GkCJfPgM80ns2k42JT7Rr9LRs5cGgRjFxC/SInzK0S9Cde62mglR+Fa5KBqXj/HC4lGvFr9kn8w==",
+  "success": true,
+  "projectFilePath": "/Users/applecity/Projects/TheMovieDbApiTest/DM.MovieApi/DM.MovieApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/applecity/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

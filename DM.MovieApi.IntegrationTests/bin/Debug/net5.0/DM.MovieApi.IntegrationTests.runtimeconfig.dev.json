@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/applecity/.dotnet/store/|arch|/|tfm|",
+      "/Users/applecity/.nuget/packages"
+    ]
+  }
+}

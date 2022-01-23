@@ -1,0 +1,14 @@
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/bin/Debug/net5.0/TheMovieApi.deps.json
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/bin/Debug/net5.0/TheMovieApi.dll
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/bin/Debug/net5.0/ref/TheMovieApi.dll
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/bin/Debug/net5.0/TheMovieApi.pdb
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/bin/Debug/net5.0/TheMovieApi.xml
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.csproj.AssemblyReference.cache
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.AssemblyInfoInputs.cache
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.AssemblyInfo.cs
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.csproj.CoreCompileInputs.cache
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.dll
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/ref/TheMovieApi.dll
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.xml
+/Users/applecity/Desktop/TheMovieDbWrapper-master/DM.MovieApi/obj/Debug/net5.0/TheMovieApi.pdb
